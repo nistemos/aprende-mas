@@ -1,0 +1,880 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"$headers〔variable〕"
+			],
+			[
+				"mes",
+				"$message〔variable〕"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"get_clas",
+				"get_class_methods〔function〕"
+			],
+			[
+				"da",
+				"$datos〔variable〕"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"uns",
+				"unset〔keyword〕"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"pos",
+				"$posAux〔variable〕"
+			],
+			[
+				"is_a",
+				"is_array〔function〕"
+			],
+			[
+				"impl",
+				"implode〔function〕"
+			],
+			[
+				"imp",
+				"implode〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"au",
+				"$auxapellido〔variable〕"
+			],
+			[
+				"aux",
+				"$auxnombre〔variable〕"
+			],
+			[
+				"html",
+				"htmlentities〔function〕"
+			],
+			[
+				"teal",
+				"text-align\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"req",
+				"req1\trequire_once …"
+			],
+			[
+				"con",
+				"$conection〔variable〕"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"padin",
+				"padding-top\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"bag",
+				"background-color\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"txa",
+				"text-align\tproperty"
+			],
+			[
+				"PAD",
+				"padding-top\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"br",
+				"border-radius\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"out",
+				"outline\tproperty"
+			],
+			[
+				"outline-",
+				"outline-color\tproperty"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"padi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"res",
+				"resize〔function〕"
+			],
+			[
+				"slid",
+				"slideDown\t.slideDown()"
+			],
+			[
+				"sl",
+				"slideUp〔function〕"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"lb-",
+				"lb-overlay"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"c",
+				"css\t.css() - single"
+			],
+			[
+				"l",
+				"lb-album"
+			],
+			[
+				"im",
+				"imprimirfotogrande"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"at",
+				"attr\t.attr() - single"
+			],
+			[
+				"hei",
+				"height〔variable〕"
+			],
+			[
+				"conte",
+				"contenido"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"fl",
+				"fl\tfloat: ${1:left};"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"inline-",
+				"inline-flex\tdisplay"
+			],
+			[
+				"Cont",
+				"ContenedorEnlaceExt"
+			],
+			[
+				"bore",
+				"border-radius\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"hi",
+				"hide〔function〕"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"As",
+				"Assets"
+			],
+			[
+				"cs",
+				"css\t.css() - multiple"
+			],
+			[
+				"mod",
+				"modal-header"
+			],
+			[
+				"prin",
+				"printCert"
+			],
+			[
+				"uri",
+				"urijSon〔variable〕"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"src",
+				"source\tTag"
+			],
+			[
+				"s",
+				"style\tTag"
+			],
+			[
+				"vi",
+				"videoId"
+			],
+			[
+				"prp",
+				"prop\t.prop() - single"
+			],
+			[
+				"plaII",
+				"playlistItems〔variable〕"
+			],
+			[
+				"data",
+				"data-video-id"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"noti",
+				"noticia_1.html"
+			],
+			[
+				"noticia",
+				"noticia_1.html"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"logo",
+				"logoscout"
+			],
+			[
+				"pat",
+				"padding-top\tproperty"
+			],
+			[
+				"I",
+				"Images"
+			],
+			[
+				"notici",
+				"noticias/6.jpg"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"slide",
+				"slide-gallery"
+			],
+			[
+				"vid",
+				"videoId〔variable〕"
+			],
+			[
+				"vide",
+				"videoId〔argument〕"
+			],
+			[
+				"inde",
+				"index〔argument〕"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"pla",
+				"player〔variable〕"
+			],
+			[
+				"new",
+				"newVideo〔variable〕"
+			],
+			[
+				"ec",
+				"each\t$.each()"
+			],
+			[
+				"resul",
+				"results〔variable〕"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"playlis",
+				"playlistId"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"stop",
+				"stopVideo"
+			],
+			[
+				"playlistI",
+				"playlistItems"
+			],
+			[
+				"playlist",
+				"playlistItems〔variable〕"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"video",
+				"videoId"
+			],
+			[
+				"on",
+				"onYouTubePlayerAPIReady"
+			],
+			[
+				"re",
+				"ready〔function〕"
+			],
+			[
+				"nav",
+				"navAux"
+			],
+			[
+				"po",
+				"pointer\tcursor"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"player",
+				"playlistId〔argument〕"
+			],
+			[
+				"su",
+				"source\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bow",
+				"Bower: Configure project"
+			],
+			[
+				"",
+				"Bower: Install dependencies"
+			],
+			[
+				"b",
+				"Bower: Install"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"bower install",
+			"closed",
+			"close",
+			"exit"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/AMDB.sql",
+		"/C/Users/Familia Mosquera/Desktop/AMDB.sql",
+		"/C/Users/Familia Mosquera/AppData/Local/Temp/scp21698/Controller/ControllerRegister.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Controller/ControllerRegister.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/amu.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/crud.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/testmail.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/sentemail.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/conexion.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Controller/Controlleremail.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/codear.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/View/registrate.html",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/View/css/estilo.css",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/View/preguntas.html",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/View/css/whatsapp.css",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/View2/View/index.html",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/View/index.html",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/View/quienes.html",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/Controller/ControllerRegister.php",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/Model/Clases/Insert.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/icrud.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/View/login.html",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/View/css/demo.css",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/View/index.html",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/View/base.php",
+		"/C/Users/Familia Mosquera/Desktop/IcoMoon-Free-master/IcoMoon-Free-master/Font/Reference.html",
+		"/C/Users/Familia Mosquera/Desktop/IcoMoon-Free-master/IcoMoon-Free-master/Font/demo-files/demo.css",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/View/formulario.html",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/Model/Clases/login.class.php",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/Model/Interfaces/Interfaz_login.php",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/Controller/ControllerLogin.php",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/Model/Clases/conexion.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/ampeu.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/amcv.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/amtu.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/amdu.class.php",
+		"/C/xampp/htdocs/Página_Aprende_mas/plataforma Aprende+/Model/amd.class.php",
+		"/C/Users/Familia Mosquera/Desktop/1. Familia mosquera/Nicolás/Trabajos_pagados/Fallidos/Publicoin_2.0/Publicoin_2.0/Model/Clases/usuario.class.php",
+		"/C/Users/Familia Mosquera/Desktop/pruebadbam2.sql",
+		"/C/Users/Familia Mosquera/Desktop/pruebadbam.sql",
+		"/C/Users/Familia Mosquera/Documents/Launch Work_2/Avanzada2/src/Implement/pruebaConexion.java",
+		"/C/Users/Familia Mosquera/Documents/Launch Work_2/Avanzada2/src/Implement/ClienteImp.java",
+		"/C/Users/Familia Mosquera/Documents/Launch Work_2/Avanzada2/src/conexion/Conexion.java",
+		"/C/xampp/htdocs/redimensionar imagen/ejecutar.php",
+		"/C/xampp/htdocs/Página Aprende+-20201008T182349Z-001/Página Aprende+/plataforma Aprende+/View/index.html",
+		"/C/xampp/htdocs/Página Aprende+-20201008T182349Z-001/Página Aprende+/plataforma Aprende+/View/css/estilo.css",
+		"/C/xampp/htdocs/Página Aprende+-20201008T182349Z-001/Página Aprende+/plataforma Aprende+/View/css/whatsapp.css",
+		"/C/xampp/htdocs/Proyecto Felipe FET/Trabajo 1/View/index.html",
+		"/C/xampp/htdocs/Proyecto Felipe FET/Parcial 1/View/Css/Font_icons.css",
+		"/C/xampp/htdocs/Proyecto Felipe FET/Trabajo 1/View/Css/Style.css",
+		"/C/xampp/htdocs/Proyecto Felipe FET/View/Css/Style.css",
+		"/C/xampp/htdocs/Proyecto Felipe FET/View/index.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/Assets/css/rulesAll.css",
+		"/C/xampp/htdocs/Proyecto Felipe FET/View/Css/Font_icons.css",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/Assets/css/Style_.css",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/Assets/css/style2.css",
+		"/C/xampp/htdocs/Proyecto Felipe FET/View/Css/Style",
+		"/C/Users/Familia Mosquera/Desktop/Proyecto Felipe FET/View/index.html",
+		"/C/Users/Familia Mosquera/Desktop/Proyecto Felipe FET/View/Css/Style",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/Assets/js/Ambientejs.js",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/Assets/js/amazingslider.js",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/Assets/batuta.json",
+		"/C/xampp/htdocs/mis uñas online/mis uñas online/public_html/Clases/conexion.class.php",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/index.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/Preescolar/nuestronivel.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/egresados.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/Colegio_Jose_Marti/View/cibercolegios.html",
+		"/C/Users/Familia Mosquera/Desktop/Cibercolegios.html",
+		"/C/xampp/htdocs/inicio43567.php",
+		"/C/xampp/htdocs/animacion.html",
+		"/C/xampp/htdocs/PruebaImg/index.php",
+		"/C/xampp/htdocs/PruebaImg/Clase/Thumbnail.class.php",
+		"/C/xampp/htdocs/prueba/pruebaApp/include/consultas_preparadas.php",
+		"/C/xampp/htdocs/prueba/pruebaApp/include/conexion.php",
+		"/C/xampp/htdocs/prueba/pruebaApp/index.php",
+		"/C/xampp/htdocs/prueba/missFA/index.php",
+		"/C/xampp/htdocs/prueba/missFA/pagina.php",
+		"/C/xampp/htdocs/prueba/subirImg/index.php",
+		"/C/xampp/htdocs/prueba/subirImg/procesa.php",
+		"/C/xampp/htdocs/Poo/Model/Persons.class.php",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Assets/css/Style_.css",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Primaria/index.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Preescolar/index.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Secundaria/slider.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Secundaria/index.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/simbolos.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Secundaria/nuestronivel.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Primaria/scout-de-la-ciencia.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Primaria/nuestronivel.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Primaria/cachorros.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Preescolar/peques.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Preescolar/nuestronivel.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Preescolar/Ambiente.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/talento_humano.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/quienes_somos.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/pqrsf.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/otroseventos.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/otrasnoticias.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/noticia_4.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/noticia_3.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/noticia_2.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/noticia_1.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/meritos.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/matriculas.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/historia.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/himno.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/enlacesRapidos.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/index.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/egresados.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/admision.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/academico.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/admision_.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Preescolar_.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/preescolar.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Assets/js/Slider.js",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Assets/css/rulesAll.css",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Primaria/slider.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Assets/js/Ambientejs.js",
+		"/C/Users/Familia Mosquera/Desktop/index.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Assets/css/style2.css",
+		"/C/Users/Familia Mosquera/Desktop/PrimariaInvestigacion.html",
+		"/C/Users/Familia Mosquera/Desktop/PrimariaPresentacion.html",
+		"/C/Users/Familia Mosquera/Desktop/Primaria.html",
+		"/C/Users/Familia Mosquera/Desktop/index (1).html",
+		"/C/Users/Familia Mosquera/Desktop/PrimariaScout.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Assets/js/modal.js",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Preescolar/slider.html",
+		"/C/xampp/htdocs/Colegio_Jose_Marti/View/Preescolar/cachorros.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jque",
+				"View\\assets\\bootstrap-4.1.0\\assets\\js\\vendor\\jquery-slim.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

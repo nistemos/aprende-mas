@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+            <title>Registrate</title>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            <link rel="stylesheet" href="css/estilo.css">
+            <link rel="stylesheet" href="css/whatsapp.css">
+            <link rel="stylesheet" href="css/demo.css">
+    </head>
+    <body background="img/cuaderno.jpg">
+
+        <header>
+            <nav id="menu">
+                <ul>
+                    <li class="img"><img src="img/Aprende PNG BLANCO.png"></li>
+                    <li><a href="index.html">INICIO</a></li>
+                    <li><a href="quienes.html">QUIENES SOMOS</a></li>
+                    <li><a href="preguntas.html">PREGUNTAS</a></li>
+                    <li><a href="registrate.html">REGISTRATE</a></li>
+                    <li class="item-r"><a href="login.html">INGRESA</a></li>
+                </ul>
+            </nav>
+        </header>
+         <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola,%20quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Aprende+" class="float" target="_blank">
+            <span class="icon icon-whatsapp"></span>
+        </a>
+        <br>
+        <form action="../Controller/ControllerRegister.php" method="POST" id="formulario">
+            <h2>Registrate</h2>
+            <div class="alert alert-danger">
+                <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+                <!--<strong>Danger!</strong> Indicates a dangerous or potentially negative action.-->
+            </div>
+            <input type="text" name="nombre" placeholder="&#9000; Nombres" required>
+            <input type="text" name="apellido" placeholder="&#9000; Apellidos" required>
+            <input type="email" name="correo" placeholder="&#x2709; Correo" required>
+            <input type="number" name="telefono" placeholder="&#9990; Telefono" required>
+            <input type="password" name="password" placeholder="&#128272; Contraseña" required>
+            <input type="password" name="cpassword" placeholder="&#128272; Repetir contraseña" required>
+            <input type="date" name="fena" placeholder="&#9000; Fecha de nacimiento" required>
+            <input type="submit" name="Btn_action" value="Registro">
+        </form>
+
+        <footer>
+            Aprende mas S&H S.A.S &nbsp; | &nbsp; No. Matrícula 346522 <br>
+            Derechos Reservados &copy; 2020, &nbsp; Colombia <br>
+            contacto@aprendemassyh.com
+        </footer>
+
+    </body>
+</html>

@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+.container img{
+    width: 100%;
+}
+.slider{
+    display: flex;
+    padding: 0;
+    width: 300%;
+
+    animation: cambio 20s infinite alternate;
+}
+.slider li{
+    list-style: none;
+    width: 100%;
+}
+
+@keyframes cambio{
+    0% { margin-left: 0;}
+    30% { margin-left: 0;}
+
+    35% { margin-left: -100%;}
+    65% { margin-left: -100%;}
+
+    70% { margin-left: -200%;}
+    100% { margin-left: -200%;}
+}
+
+
+
+.menu{
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .menu li{
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .menu li a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    background-color: grey;
+    padding: 10px;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    border-radius: 100%;
+  }

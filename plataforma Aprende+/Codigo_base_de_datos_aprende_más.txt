@@ -1,0 +1,64 @@
+Codigo tablas base de datos
+
+AMU -> Datos del usuario
+AMU00 -> id
+AMU01 -> primer nombre
+AMU02 -> Segundo nombre
+AMU03 -> Primer Apellido
+AMU04 -> segundo Apellido
+AMU05 -> email
+AMU06 -> Telefono
+AMU07 -> Clave
+AMU08 -> Fecha de nacimiento
+AMU09 -> Hora de creado
+AMU10 -> Tipo se usuario
+AMU11 -> Estado
+
+AMD -> Datos del diplomado
+AMD00 -> id
+AMD01 -> Nombre del diplomado
+AMD02 -> Descripcion del diplomado
+AMD03 -> Descripcion de la practica
+AMD04 -> Descripcion de lo que se va a aprender
+AMD05 -> Precio
+
+AMDU -> Es la tabla puente entre los usuarios
+y cualquier diplomado
+AMDU00 -> ID
+AMDU01 -> ID del diplomado
+AMDU02 -> ID del usuario
+AMDU03 -> fecha de la inscripción
+
+AMTU -> Tipo de usuario
+AMTU00 -> Id
+AMTU01 -> Descripción
+AMTU02 -> Codigo unico del tipo de usuario
+
+AMCV -> Hoja de vida del docente
+AMCV00 -> id
+AMCV01 -> Descripcion
+AMCV02 -> Ruta de la hoja de vida en el servidor
+AMCV03 -> id del usuario
+
+AMPEU-> Entidad que registra los pagos
+AMPEU00 -> id
+AMPEU01 -> Concepto de pago
+AMPEU02 -> url del pago
+AMPEU03 -> Estado del pago
+AMPEU04 ->
+AMPEU05 ->
+AMPEU06 ->
+
+DELIMITER $$
+CREATE PROCEDURE CreateAMU (IN nombre1 varchar(45), IN nombre2 varchar(45), IN apellido1 varchar(45), IN apellido2 varchar(45), IN email varchar(255), IN telephone varchar(45), IN clave varchar(255), IN fena DATE)
+	BEGIN
+    	INSERT INTO amu ( AMU01, AMU02, AMU03, AMU04, AMU05, AMU06, AMU07, AMU08) VALUES (nombre1, nombre2, apellido1, apellido2, email, telephone, clave, fena);
+	END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `InsertU`(IN `name` VARCHAR(45), IN `nick` VARCHAR(45), IN `cedula` VARCHAR(45), IN `telefono` BIGINT, IN `clave` VARCHAR(45), IN `country` INT UNSIGNED, IN `city` INT UNSIGNED, IN `department` INT UNSIGNED, IN `email` VARCHAR(45), IN `invitation` VARCHAR(255), IN `plan` INT)
+BEGIN
+    	INSERT INTO `usuario` (`nombre`, `nick`, `cedula`, `telefono`, `contra`, `pais`, `ciudad`, `departamento`, `correo`, `invitacion_id`,`planes_id`, `puntos`, `dinero`, `estado`, `created_at`) VALUES (name, nick, cedula, telefono,clave, country,city,department,email, invitation, plan,0, 0, 0, CURRENT_TIMESTAMP);
+    END$$
+DELIMITER ;
